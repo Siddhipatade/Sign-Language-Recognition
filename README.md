@@ -14,20 +14,15 @@ The main objective of our project is to develop a user-friendly and accessible s
 
     2. numpy -> pip install numpy
 
-    3. string -> pip install strings
+    3. os-sys -> pip install os-sys
 
-    4. os-sys -> pip install os-sys
+    4. opencv -> pip install opencv-python
 
-    5. opencv -> pip install opencv-python
+    5. tensorFlow -> pip install tensorflow 
 
-    6. tensorFlow -> pip install tensorflow 
+    6. keras -> pip install keras
 
-    7. keras -> pip install keras
+    7. tkinter -> pip install tk
 
-    8. tkinter -> pip install tk
-
-    9. PIL -> pip install Pillow
-
-    10. enchant -> pip install pyenchant (Python bindings for the Enchant spellchecking system)
     
   
