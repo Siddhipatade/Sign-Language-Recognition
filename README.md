@@ -8,5 +8,26 @@ The main objective of our project is to develop a user-friendly and accessible s
 
 ![image](https://github.com/Siddhipatade/Sign-Language-Recognation/assets/91780318/e9174b27-fe7f-4510-b05e-408a7dfe8ce3)
 
-# python library used
+# Python Library Used
 
+    1. Lastest pip -> pip install --upgrade pip
+
+    2. numpy -> pip install numpy
+
+    3. string -> pip install strings
+
+    4. os-sys -> pip install os-sys
+
+    5. opencv -> pip install opencv-python
+
+    6. tensorFlow -> pip install tensorflow 
+
+    7. keras -> pip install keras
+
+    8. tkinter -> pip install tk
+
+    9. PIL -> pip install Pillow
+
+    10. enchant -> pip install pyenchant (Python bindings for the Enchant spellchecking system)
+    
+  
