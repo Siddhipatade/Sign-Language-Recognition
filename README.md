@@ -8,7 +8,7 @@ The main objective of our project is to develop a user-friendly and accessible s
 
 ![image](https://github.com/Siddhipatade/Sign-Language-Recognation/assets/91780318/e9174b27-fe7f-4510-b05e-408a7dfe8ce3)
 
-# Python Library Used
+## Python Library used
 
     1. Lastest pip -> pip install --upgrade pip
 
