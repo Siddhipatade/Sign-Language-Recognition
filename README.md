@@ -4,4 +4,9 @@ Sign language is a visual language used by people with hearing disabilities to c
 
 In this project, a machine learning model and deep neural network are developed to detect sign language gestures. The model is trained on a large dataset of sign language gestures and uses image processing techniques to detect and track the movements of the hands and fingers. The deep neural network is used to classify the detected gestures into corresponding sign language words or phrases.
 
+The main objective of our project is to develop a user-friendly and accessible system that can facilitate communication and promote inclusivity for differently-abled individuals. By Enabling smooth communication between those who use sign language and those who do not, our system aims to improve the quality of life of differently abled individuals and promote a more inclusive and accessible society.
+
+![image](https://github.com/Siddhipatade/Sign-Language-Recognation/assets/91780318/e9174b27-fe7f-4510-b05e-408a7dfe8ce3)
+
 # python library used
+
