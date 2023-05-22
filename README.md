@@ -1,4 +1,4 @@
-#  Sign-Language-Recognation-for-differently-abled-people
+#  Sign-Language-Recognition-for-differently-abled-people
 ## Abstract
 Sign language is a visual language used by people with hearing disabilities to communicate with each other and with hearing people. However, understanding sign language can be a challenge for those who are not familiar with it. Machine learning and deep neural networks can be used to detect sign language gestures and translate them into text or speech to help bridge this communication gap.
 
