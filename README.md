@@ -24,5 +24,9 @@ The main objective of our project is to develop a user-friendly and accessible s
 
     7. tkinter -> pip install tk
 
+
+## Authors
+- Siddhi ( https://github.com/Siddhipatade )
+- Anjali ( https://github.com/03anjali )
     
   
