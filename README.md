@@ -27,6 +27,6 @@ The main objective of our project is to develop a user-friendly and accessible s
 
 ## Authors
 - Siddhi ( https://github.com/Siddhipatade )
-- Anjali ( https://github.com/03anjali )
+
     
   
