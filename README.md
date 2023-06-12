@@ -6,6 +6,8 @@ In this project, a machine learning model and deep neural network are developed 
 
 The main objective of our project is to develop a user-friendly and accessible system that can facilitate communication and promote inclusivity for differently-abled individuals. By Enabling smooth communication between those who use sign language and those who do not, our system aims to improve the quality of life of differently abled individuals and promote a more inclusive and accessible society.
 
+
+
 ![image](https://github.com/Siddhipatade/Sign-Language-Recognation/assets/91780318/e9174b27-fe7f-4510-b05e-408a7dfe8ce3)
 
 ## Python Library used
